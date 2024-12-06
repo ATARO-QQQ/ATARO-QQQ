@@ -7,6 +7,4 @@ I might do some <b>research</b> using websites.<br>
 I'm a <b>complete beginner</b>, so I don't know much about the details, but I'll do my best.<br>
 I will do my best to create a good website!<br>
 <br>
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username={ATARO-QQQ})](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,htmx,raspberrypi,arduino,gmail,windows,)](https://skillicons.dev)
