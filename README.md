@@ -12,4 +12,4 @@ I will do my best to create a good website!<br>
 ディレクターを名乗っている不審者ですが、社会心理学を研究させていただいております!<br>
 全くの初心者ですが、どうぞ、よろしくお願いいたします!!<br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,htmx,raspberrypi,arduino,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,htmx,r,raspberrypi,arduino,)](https://skillicons.dev)
