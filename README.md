@@ -63,27 +63,6 @@ Tiro adhuc sum, sed vobis placere maxime cupio!
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ataro-qqq&theme=onedark&column=6&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## GitHub Analytics & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ataro-qqq&show_icons=true&theme=onedark&locale=en" alt="ATARO-QQQ's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataro-qqq&layout=compact&theme=onedark&locale=en" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ataro-qqq&theme=onedark" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
 ## Random Dev Quote
 
 <div align="center">
