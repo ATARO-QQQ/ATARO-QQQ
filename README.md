@@ -8,7 +8,7 @@
 
 
 <details open>
-<summary><b>🇯🇵 日本語 (Japanese)</b></summary>
+<summary><b>日本語 (Japanese)</b></summary>
 <br>
 
 どうも、ATARO-QQQ (A.N.の社畜) です！  
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-<summary><b>🇬🇧 English (UK)</b></summary>
+<summary><b>English (UK)</b></summary>
 <br>
 
 Right then, I'm ATARO-QQQ (A.N.'s wage slave)!  
@@ -40,7 +40,7 @@ I'm still very much a novice, but delighted to meet you all!
 </details>
 
 <details>
-<summary><b>🏛️ Latina (Latin)</b></summary>
+<summary><b>Latina (Latin)</b></summary>
 <br>
 
 Salvetis! Ego sum ATARO-QQQ (servus operarius A.N.)!  
