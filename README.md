@@ -19,7 +19,7 @@
 **代表作品**
 * [横浜創英 清掃ラボ 公式HP](https://ataro-qqq.github.io/yscl/) ＜2023～＞
 * [横浜創英 Project Festa 公式HP](https://soei-pf.com/) ＜2025～＞
-* [横浜創英 創英祭 学校公式案内](https://www.soei.ed.jp/s_senior/h_scheduleyear/) ＜2026＞
+* [横浜創英 創英祭 学校公式案内](https://www.soei-fes.com/) ＜2026＞
 
 </details>
 
@@ -35,7 +35,7 @@ I'm still very much a novice, but delighted to meet you all!
 **Featured Projects**
 * [Yokohama Soei Cleaning Lab — Official Website](https://ataro-qqq.github.io/yscl/) <2023–>
 * [Yokohama Soei Project Festa — Official Website](https://soei-pf.com/) <2025–>
-* [Yokohama Soei School Festival — Official School Information](https://www.soei.ed.jp/s_senior/h_scheduleyear/) <2026>
+* [Yokohama Soei School Festival — Official School Information](https://www.soei-fes.com/) <2026>
 
 </details>
 
@@ -51,7 +51,7 @@ Tiro adhuc sum, sed vobis placere maxime cupio!
 **Opera Praecipua**
 * [Yokohama Soei Laboratorium Purgandi — Pagina Publica](https://ataro-qqq.github.io/yscl/) <2023–>
 * [Yokohama Soei Project Festa — Pagina Publica](https://soei-pf.com/) <2025–>
-* [Yokohama Soei Festum Scholae — Informationes Officiales](https://www.soei.ed.jp/s_senior/h_scheduleyear/) <2026>
+* [Yokohama Soei Festum Scholae — Informationes Officiales](https://www.soei-fes.com/) <2026>
 
 </details>
 
