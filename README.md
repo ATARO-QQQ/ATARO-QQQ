@@ -59,7 +59,7 @@ Tiro adhuc sum, sed vobis placere maxime cupio!
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,htmx,css,js,nodejs,dotnet,r,raspberrypi,arduino,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,htmx,css,js,nodejs,dotnet,r,php,raspberrypi,arduino,)](https://skillicons.dev)
 
 ---
 
