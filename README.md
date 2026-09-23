@@ -17,9 +17,9 @@
 初心者のペーペーではございますが、何卒よろしくお願いします！  
 
 **代表作品**
-- [横浜創英 清掃ラボ 公式HP](https://ataro-qqq.github.io/yscl/) ＜2023年～＞
-- [横浜創英 プロジェクトフェスタ 公式HP](https://ataro-qqq.github.io/yscl/) ＜2025年～＞
-- [横浜創英 創英祭 公式HP](https://ataro-qqq.github.io/yscl/) ＜2026年＞
+* [横浜創英 清掃ラボ 公式HP](https://ataro-qqq.github.io/yscl/) ＜2023～＞
+* [横浜創英 Project Festa 公式HP](https://soei-pf.com/) ＜2025～＞
+* [横浜創英 創英祭 学校公式案内](https://www.soei.ed.jp/s_senior/h_scheduleyear/) ＜2026＞
 
 </details>
 
@@ -33,9 +33,9 @@ My coding focus is mainly on browser languages such as HTML and JavaScript, alon
 I'm still very much a novice, but delighted to meet you all!  
 
 **Featured Projects**
-- [Yokohama Soei Cleaning Lab Official Site](https://ataro-qqq.github.io/yscl/) \<2023–\>
-- [Yokohama Soei Project Festa Official Site](https://ataro-qqq.github.io/yscl/) \<2025–\>
-- [Yokohama Soei School Festival Official Site](https://ataro-qqq.github.io/yscl/) \<2026\>
+* [Yokohama Soei Cleaning Lab — Official Website](https://ataro-qqq.github.io/yscl/) <2023–>
+* [Yokohama Soei Project Festa — Official Website](https://soei-pf.com/) <2025–>
+* [Yokohama Soei School Festival — Official School Information](https://www.soei.ed.jp/s_senior/h_scheduleyear/) <2026>
 
 </details>
 
@@ -49,9 +49,9 @@ Codices scribendo, praecipue linguis interretialibus (ut HTML et JS) et rationib
 Tiro adhuc sum, sed vobis placere maxime cupio!  
 
 **Opera Praecipua**
-- [Yokohama Soei Laboratorium Purgandi Pagina Publica](https://ataro-qqq.github.io/yscl/) \<2023–\>
-- [Yokohama Soei Festum Progetti Pagina Publica](https://ataro-qqq.github.io/yscl/) \<2025–\>
-- [Yokohama Soei Festum Scholae Pagina Publica](https://ataro-qqq.github.io/yscl/) \<2026\>
+* [Yokohama Soei Laboratorium Purgandi — Pagina Publica](https://ataro-qqq.github.io/yscl/) <2023–>
+* [Yokohama Soei Project Festa — Pagina Publica](https://soei-pf.com/) <2025–>
+* [Yokohama Soei Festum Scholae — Informationes Officiales](https://www.soei.ed.jp/s_senior/h_scheduleyear/) <2026>
 
 </details>
 
